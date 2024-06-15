@@ -40,3 +40,4 @@ do --// Properties & Rest
         TextLabel.TextSize = 12.000
         TextLabel.TextWrapped = true
         TextLabel.TextScaled = true
+    end
